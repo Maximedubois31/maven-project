@@ -1,3 +1,4 @@
+/** Package description. */
 package com.example;
 
 /** class Greeter doc. */
