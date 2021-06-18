@@ -1,9 +1,9 @@
 package com.example;
 
-/** class Greeter doc */
+/** class Greeter doc. */
 public class Greeter {
 
- /** greeter java doc. */
+ /** greeter java doc */
   public Greeter() {
 
   }
