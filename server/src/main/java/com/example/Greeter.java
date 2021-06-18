@@ -1,10 +1,11 @@
 /**
- * This module is about impact of the final keyword on performance
+ * Domain classes used to produce the JSON and XML output for the RESTful services. 
  * <p>
- * This module explores  if there are any performance benefits from
- * using the final keyword in our code. This module examines the performance
- * implications of using final on a variable, method, and class level.
- * </p>
+ * These classes contain the JAXB annotations.
+ *
+ * @since 1.0
+ * @author jwhite
+ * @version 1.1
  */
 package com.example;
 
@@ -16,8 +17,7 @@ public class Greeter {
 
   }
 
-  /** Greet method. 
-   * @param someone first arg
+  /** Greet method. @param someone first arg
    * @return String.format("Hello babacar, %s!", someone) */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
