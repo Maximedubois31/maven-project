@@ -1,9 +1,3 @@
-/**
- * Description package
- * @since 1.0
- * @author maxime
- * @version 1.1
- */
 package com.example;
 
 /** class Greeter doc. */
