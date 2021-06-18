@@ -3,7 +3,7 @@ package com.example;
 
 public class Greeter {
 
-  
+ /** greeter java doc */
   public Greeter() {
 
   }
