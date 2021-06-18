@@ -9,7 +9,7 @@ public class Greeter {
   }
 
   /** Greet method. 
-   * @param somone
+   * @param someone
    * @return String.format("Hello babacar, %s!", someone)
    */
   public final String greet(final String someone) {
