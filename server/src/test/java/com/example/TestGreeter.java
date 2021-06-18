@@ -12,13 +12,11 @@ public class TestGreeter {
 
   private Greeter greeter;
 
-  /** setup java doc*/
   @Before
   public void setup() {
     greeter = new Greeter();
   }
 
-   /** greetShouldIncludeTheOneBeingGreeted java doc*/
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
     String someone = "World";
@@ -26,7 +24,6 @@ public class TestGreeter {
     assertThat(greeter.greet(someone), containsString(someone));
   }
 
-  /** greetShouldIncludeGreetingPhrase java doc*/
   @Test
   public void greetShouldIncludeGreetingPhrase() {
     String someone = "World";
