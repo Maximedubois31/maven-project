@@ -10,7 +10,7 @@ public class Greeter {
   }
 
   /** Greet method. 
-   * @param someone
+   * @param someone first arg
    * @return String.format("Hello babacar, %s!", someone)
    */
   public final String greet(final String someone) {
