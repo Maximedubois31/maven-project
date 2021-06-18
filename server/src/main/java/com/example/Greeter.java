@@ -1,15 +1,20 @@
 package com.example;
 
-/** class Greeter doc */
+/** 
+ * class Greeter doc
+ */
 public class Greeter {
 
- /** greeter java doc. */
+ /** 
+  * greeter java doc. 
+  */
   public Greeter() {
 
   }
 
   /** 
-   * greeter java doc 
+   * Greet method 
+   *
    * @param string somone
    * @return string  
    */
