@@ -1,9 +1,7 @@
 /**
  * Description package
- * <p>
- * These classes contain the JAXB annotations.
  * @since 1.0
- * @author jwhite
+ * @author maxime
  * @version 1.1
  */
 package com.example;
