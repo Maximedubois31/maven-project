@@ -8,8 +8,7 @@ public class Greeter {
 
   }
 
-  /** 
-   * Greet method 
+  /** Greet method 
    * @param somone
    * @return String.format("Hello babacar, %s!", someone)
    */
